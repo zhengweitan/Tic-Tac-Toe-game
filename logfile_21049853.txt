@@ -1,0 +1,5 @@
+Human(H): X place at 1
+Computer(C): O place at 9
+Human(H): X place at 2
+Computer(C): O place at 7
+Human(H): X place at 3
